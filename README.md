@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+Pathfinding Visualizer.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Finds the shortest path between two destinations on a grid.
+Currently uses A star algorithm. Other implementations in progress. 
 
 ## Available Scripts
 
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Screenshots
+Path being found:
+<img width="1423" alt="Screen Shot 2022-11-12 at 6 22 18 PM" src="https://user-images.githubusercontent.com/95579140/201498447-55116556-c29b-4d78-b970-dd50302759eb.png">
+Path after a star algorithm is ran:
+<img width="1409" alt="Screen Shot 2022-11-12 at 6 22 24 PM" src="https://user-images.githubusercontent.com/95579140/201498450-2ea66ff4-e112-4348-8901-555ea800ef4f.png">
